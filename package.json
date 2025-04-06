@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Algorithm visualization tool",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "dev": "vite"
+  },
   "keywords": [],
   "author": "André Gabriel <dev.andregabriel@gmail.com>",
   "license": "MIT",
