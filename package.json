@@ -1,0 +1,11 @@
+{
+  "name": "AlgoView",
+  "version": "1.0.0",
+  "description": "Algorithm visualization tool",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "André Gabriel <dev.andregabriel@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.7.1"
+}
